@@ -1,3 +1,4 @@
+##:earth_asia: WHMCS Multilingual Six Client Area Template Theme (RTL & LTR)
 Welcome to the WHMCS multilingual “Six” template repository! This repository is dedicated to providing version-by-version changes of the “Six” template as published in WHMCS. Sharing these changes through GitHub as a read-only repository enables you to quick inspect and import these changes for your custom theme.
 <br/>
 <br/>
