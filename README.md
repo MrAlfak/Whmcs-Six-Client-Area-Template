@@ -18,10 +18,10 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 
 ##:mag_right: Upcoming features
-- [ ] Multilingual Persian (RTL) & ٍEnglish (LTR)
-- [ ] Use Font B Yekan for Persian Language
-- [ ] Convert All number to Persian 
-- [ ] Optimized template ٌwith Gtmatrix Analyze 
+- [ ] Fix RTL in search Domain box
+- [ ] ّFix Corner box's in RTL 
+- [ ] Fix 2Line News In RTL
+- [ ] Fix Footer lang 
 
 <br/>
 <br/>
