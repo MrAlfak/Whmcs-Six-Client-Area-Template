@@ -16,13 +16,16 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 <br/>
 <br/>
+
 ##:mag_right: Upcoming features
-- [x] Multilingual Persian (RTL) & ٍEnglish (LTR)
-- [x] Use Font B Yekan for Persian Language
-- [x] Convert All number to Persian 
-- [x] Optimized template ٌwith Gtmatrix Analyze 
+- [ ] Multilingual Persian (RTL) & ٍEnglish (LTR)
+- [ ] Use Font B Yekan for Persian Language
+- [ ] Convert All number to Persian 
+- [ ] Optimized template ٌwith Gtmatrix Analyze 
+
 <br/>
 <br/>
 <br/>
+
 ##:clipboard: Version
 1.0 - Release template 
