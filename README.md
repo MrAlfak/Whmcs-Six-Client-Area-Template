@@ -8,14 +8,21 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 <br/>
 <br/>
-
 ##:rocket: Features
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Multilingual Persian (RTL) & ٍEnglish (LTR)
+- [x] Use Font B Yekan for Persian Language
+- [x] Convert All number to Persian 
+- [x] Optimized template ٌwith Gtmatrix Analyze 
 <br/>
 <br/>
 <br/>
-
+##:mag_right: Upcoming features
+- [x] Multilingual Persian (RTL) & ٍEnglish (LTR)
+- [x] Use Font B Yekan for Persian Language
+- [x] Convert All number to Persian 
+- [x] Optimized template ٌwith Gtmatrix Analyze 
+<br/>
+<br/>
+<br/>
 ##:clipboard: Version
 1.0 - Release template 
