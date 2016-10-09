@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
         </div><!-- /.main-content -->
         {if $secondarySidebar->hasChildren()}
             <div class="col-md-3 pull-md-left sidebar">
@@ -11,12 +11,12 @@
 
 <section id="footer">
 
-    <p> г«гн Ќёжё г«ѕн ж гЏджн г Џбё »е {$companyname} гн »«‘ѕ .</p>
+    <p>Ў™ўЕЎІўЕўК Ў≠ўВўИўВ ўЕЎІЎѓўК ўИ ўЕЎєўЖўИўК ўЕЎ™ЎєўДўВ Ў®ўЗ {$companyname} ўЕўК Ў®ЎІЎіЎѓ.</p>
 
 </section>
 
 <script defer src="{$BASE_PATH_JS}/bootstrap.min.js"></script>
-<script defer src="{$BASE_PATH_JS}/jquery-ui.min.js"></script>
+<script defer src="{$BASE_PATH_JS}/jquery-ui.min.js"></script> 
 <script type="text/javascript">
     var csrfToken = '{$token}';
 </script>

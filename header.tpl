@@ -98,7 +98,7 @@
 
         </div>
 
-        <a href="index.php"><img src="{$WEB_ROOT}/templates/{$template}/img/logo.png" alt="{$companyname}" /></a>
+        <a href="index.php"><img src="{$WEB_ROOT}/templates/{$template}/img/logo.png" height="65" width="275" alt="{$companyname}" /></a>
 
     </div>
 </section>
