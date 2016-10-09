@@ -44,3 +44,11 @@ This theme is compatible with WHMCS 6.0 and later.
  <br/>
 1.0 - 
 - Release template 
+
+<br/>
+<br/>
+<br/>
+##:globe_with_meridians: WHMCS Jalali date
+https://github.com/EhsanCh/whmcs-jalalidate
+
+
