@@ -23,10 +23,10 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 
 ##:mag_right: Upcoming features
-- [x] Fix RTL in search Domain box
-- [x] ّFix Corner box's in RTL 
-- [x] Fix 2Line News In RTL
-- [x] Fix Footer lang 
+- [x] <del>Fix RTL in search Domain box</del>
+- [x] ّ<del>Fix Corner box's in RTL</del>
+- [x] <del>Fix 2Line News In RTL</del>
+- [x] <del>Fix Footer lang</del>
 - [ ] Combine Js file 
 - [ ] Combine Css file
 
