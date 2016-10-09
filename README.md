@@ -42,4 +42,5 @@ This theme is compatible with WHMCS 6.0 and later.
 - fix Footer lang
  <br/>
  <br/>
-1.0 - Release template 
+1.0 - 
+- Release template 
