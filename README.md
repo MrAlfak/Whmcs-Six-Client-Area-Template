@@ -4,7 +4,7 @@ Welcome to the WHMCS multilingual “Six” template repository! This repository
 <br/>
 <br/>
 ##:bar_chart: Gtmetrix Report
-
+![alt tag](http://client.safedataset.com/rp.png "Gtmetrix Report")
 <br/>
 <br/>
 <br/>
