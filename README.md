@@ -15,7 +15,7 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 ##:rocket: Features
 - [x] Multilingual Persian (RTL) & ٍEnglish (LTR)
-- [x] Use Font B Yekan for Persian Language
+- [x] Use Font IRANSansWeb for Persian Language
 - [x] Convert All number to Persian 
 - [x] Optimized template ٌwith Gtmatrix Analyze 
 <br/>
