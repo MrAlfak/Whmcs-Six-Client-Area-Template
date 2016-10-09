@@ -3,6 +3,11 @@ Welcome to the WHMCS multilingual “Six” template repository! This repository
 <br/>
 <br/>
 <br/>
+##:bar_chart: Gtmetrix Report
+
+<br/>
+<br/>
+<br/>
 ##:nut_and_bolt: Compatibility
 This theme is compatible with WHMCS 6.0 and later.
 <br/>
