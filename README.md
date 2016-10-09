@@ -18,10 +18,12 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 
 ##:mag_right: Upcoming features
-- [ ] Fix RTL in search Domain box
-- [ ] ّFix Corner box's in RTL 
-- [ ] Fix 2Line News In RTL
-- [ ] Fix Footer lang 
+- [x] Fix RTL in search Domain box
+- [x] ّFix Corner box's in RTL 
+- [x] Fix 2Line News In RTL
+- [x] Fix Footer lang 
+- [ ] Combine Js file 
+- [ ] Combine Css file
 
 <br/>
 <br/>
