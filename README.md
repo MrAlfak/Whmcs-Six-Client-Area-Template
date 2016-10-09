@@ -35,4 +35,10 @@ This theme is compatible with WHMCS 6.0 and later.
 <br/>
 
 ##:clipboard: Version
+1.1 -
+-fix RTL in search Domain box
+-fix Corner box's in RTL
+-fix 2Line News In RTL
+-fix Footer lang
+ <br/>
 1.0 - Release template 
